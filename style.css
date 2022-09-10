@@ -359,7 +359,7 @@ footer .content-footer .location{
     .btns{
         justify-content: center;
         flex-wrap: wrap;
-        margin: 10px;
+        display: flex;
         gap: 1rem;
     }
     .social{
